@@ -246,7 +246,7 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
+  /* color: var(--bs-link-color); Bug in original template? Anchor text matches backround. */ 
   text-decoration: underline;
 }
 a:hover {
