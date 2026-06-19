@@ -868,6 +868,77 @@ small {
   color: #2c3e50;
 }
 
+.article-masthead {
+  padding-bottom: 4rem;
+}
+
+.article-masthead .masthead-heading {
+  max-width: 58rem;
+}
+
+.article-section {
+  background: #fff;
+  color: #2c3e50;
+}
+
+.article-content {
+  max-width: 58rem;
+  margin: 0 auto;
+  text-align: left;
+  font-size: 1.125rem;
+  line-height: 1.75;
+}
+
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5 {
+  color: #2c3e50;
+}
+
+.article-content h2 {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-top: 0.25rem;
+  border-top: 0.25rem solid #1abc9c;
+  font-size: 1.75rem;
+}
+
+.article-content h2:first-child {
+  margin-top: 0;
+}
+
+.article-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.35rem;
+}
+
+.article-content h4 {
+  margin-top: 1.75rem;
+  margin-bottom: 0.65rem;
+  font-size: 1.15rem;
+}
+
+.article-content h5 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.65rem;
+  font-size: 1.05rem;
+}
+
+.article-content p,
+.article-content ol {
+  margin-bottom: 1.15rem;
+}
+
+.article-content ol {
+  padding-left: 1.4rem;
+}
+
+.article-content a {
+  color: #15967d;
+}
+
 .book-toc {
   max-width: 56rem;
   margin: 0 auto;
